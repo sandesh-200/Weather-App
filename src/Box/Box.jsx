@@ -47,6 +47,20 @@ const Box = ({ onCityChange }) => {
                     <option value="tokyo" className='text-black'>Tokyo</option>
                     <option value="seoul" className='text-black'>Seoul</option>
                     <option value="dubai" className='text-black'>Dubai</option>
+                    <option value="biratnagar" className='text-black'>Biratnagar</option>
+                    <option value="moscow" className='text-black'>Moscow</option>
+                    <option value="paris" className='text-black'>Paris</option>
+                    <option value="sydney" className='text-black'>Sydney</option>
+                    <option value="rome" className='text-black'>Rome</option>
+                    <option value="cairo" className='text-black'>Cairo</option>
+                    <option value="rio de janeiro" className='text-black'>Rio de Janeiro</option>
+                    <option value="barcelona" className='text-black'>Barcelona</option>
+                    <option value="singapore" className='text-black'>Singapore</option>
+                    <option value="cape town" className='text-black'>Cape Town</option>
+                    <option value="amsterdam" className='text-black'>Amsterdam</option>
+                    <option value="istanbul" className='text-black'>Istanbul</option>
+                    <option value="bangkok" className='text-black'>Bangkok</option>
+
                 </select>
             </div>
     <p className="temp">{info.temp}&#176;C</p>
