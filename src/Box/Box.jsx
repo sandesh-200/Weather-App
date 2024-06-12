@@ -1,8 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import { WiHumidity } from "react-icons/wi";
-import { FaTemperatureArrowUp, FaTemperatureArrowDown } from "react-icons/fa6";
-import { FiWind } from "react-icons/fi";
-import { MdPlace } from "react-icons/md";
 import './Box.css';
 
 const Box = ({ onCityChange }) => {
